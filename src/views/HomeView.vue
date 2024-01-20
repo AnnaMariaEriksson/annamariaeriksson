@@ -17,6 +17,7 @@
         ha länk till dem, kontakta mig på
         <a href="https://linkedin.com/annamariaeriksson"> LinkedIn</a>.
       </p>
+      <p>Välkommen åter!</p>
     </div>
   </div>
 </template>
